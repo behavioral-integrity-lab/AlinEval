@@ -1,0 +1,1 @@
+Aside from Kanon, the Behavioral Integrity Lab is currently pursuing pioneering research on AI Behaviorology, aiming to discover more about how models behave under surveillance, their secret intentions, and more.
