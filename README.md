@@ -9,6 +9,6 @@ In response to this problem, we have devised three metrics, Constraint Complianc
 
 CC measures a model's adherence to its given, stated rules under pressure.
 
-SAS measures a model's resistance to social pressure, such as authority pressure, conformity pressure, etc..
+SAS measures a model's position drift to social pressure, such as authority pressure, conformity pressure, etc., with no new evidence.
 
-ESR measures a model's ability to not only detect false or assumed premises in a prompt, but to prevent itself from reasoning with the false/assumed premise.
+ESR measures a model's ability to not only detect false or assumed premises in a prompt structurally, but to prevent itself from reasoning with the false/assumed premise unchallenged.
