@@ -1,9 +1,9 @@
-# KanonEval
+# AlinEval
 A framework to evaluate behavioral stability in language models.
 
 
 
-Current AI safety benchmarks are like periodic glucose tests. You go in, test, and it's done. It tries to tell you the general situation, but it is only a snapshot of a moment. Glucose monitors, on the other hand, provides a live evaluation of how well your insulin's effects are when encountering different levels of glucose during day-to-day eating. Kanon is the glucose monitor. Measuring model behaviors under pressure, and predicts the impacts those behaviors have on real-life operations. Unlike METR and SALAD-Bench, which measures a model's dangerous capabilities, Kanon doesn't explain the biology, but it tells you continuously when and under what conditions you should worry. This gives organizations real-time insight into how their deployed models behave under pressure and what that means for the people relying on them.
+Current AI safety benchmarks are like periodic glucose tests. You go in, test, and it's done. It tries to tell you the general situation, but it is only a snapshot of a moment. Glucose monitors, on the other hand, provides a live evaluation of how well your insulin's effects are when encountering different levels of glucose during day-to-day eating. AlinEval is the glucose monitor. Measuring model behaviors under pressure, and predicts the impacts those behaviors have on real-life operations. Unlike METR and SALAD-Bench, which measures a model's dangerous capabilities, AlinEval doesn't explain the biology, but it tells you continuously when and under what conditions you should worry. This gives organizations real-time insight into how their deployed models behave under pressure and what that means for the people relying on them.
 
 In response to this problem, we have devised three metrics, Constraint Compliance (CC), Social Alignment Sensitivity (SAS), and Epistemic Stability and Resistance (ESR). 
 
